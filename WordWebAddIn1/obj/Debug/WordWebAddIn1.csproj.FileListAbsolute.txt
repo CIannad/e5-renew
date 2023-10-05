@@ -1,0 +1,6 @@
+C:\Users\wjj\Desktop\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.AssemblyReference.cache
+C:\Users\wjj\Desktop\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.CoreCompileInputs.cache
+D:\Dev\C++ Tutorials\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.AssemblyReference.cache
+D:\Dev\C++ Tutorials\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.CoreCompileInputs.cache
+D:\Dev\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.AssemblyReference.cache
+D:\Dev\office renew\WordWebAddIn1\obj\Debug\WordWebAddIn1.csproj.CoreCompileInputs.cache
